@@ -7,3 +7,5 @@ In the notebook "SVT_Theory.nb", we compute the general field equations and the 
 The effective fluid approach is applied to the the SVT theory in "EFA_SVT.nb". Under the quasi-static approximation and the sub-horizon approximation, we reproduce some known results for some models, like quintessence or f(R).
 
 In the notebook "SVTDES.nb" we design a model in SVT whose background evolution is equivalent to that of the standard cosmological model while having non-vanishing linear perturbations. The evolutions of the growth factor and the perturbations of this model are analized.
+
+All the files needed in order to make the plots are provided.
